@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Mon, 19 Jun 2023 12:03:29 +0530
+Source: brute-os-plymouth-theme
+Binary: brute-os-plymouth-theme
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 0.1-alpha
+Distribution: brute-os-dev
+Urgency: medium
+Maintainer: Arijit Bhowmick <arijit_bhowmick@outlook.com>
+Changed-By: Arijit Bhowmick <arijit_bhowmick@outlook.com>
+Description:
+ brute-os-plymouth-theme - Official Plymouth Theme for Brute OS
+Changes:
+ brute-os-plymouth-theme (0.1-alpha) brute-os-dev; urgency=medium
+ .
+   * Initial alpha release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ c230bdf22896f7a02c4da3735cb354f3c5898b03 6274 brute-os-plymouth-theme_0.1-alpha_all.buildinfo
+ 8d0fbf080925da750c9abd816a542426294517e6 101006 brute-os-plymouth-theme_0.1-alpha_all.deb
+Checksums-Sha256:
+ 0f5bea6bae8b80f81dda4b89be54b6fb75fbaa07e4927f9fa5879611124ebbbd 6274 brute-os-plymouth-theme_0.1-alpha_all.buildinfo
+ c868f42c30997a713f5d6ae512aed6f6c57a20b06b624078398e363ef6d2f404 101006 brute-os-plymouth-theme_0.1-alpha_all.deb
+Files:
+ 4e2f0e8277922ee6d3b7d10149ee7886 6274 base optional brute-os-plymouth-theme_0.1-alpha_all.buildinfo
+ c868026aa69ec1ebaa703da73058c671 101006 base optional brute-os-plymouth-theme_0.1-alpha_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQhLSJURG1hYaqICCMUFTF3Wgb3YgUCZJAGkgAKCRAUFTF3Wgb3
+Yja/AP9kwRuvmBKpPvHVVP+M89gyeRRfHPWTddgoLDx+tv9bnQEA39qjoccVDazr
+nZRgxngd4MV9rfLgCL1Rfx5tmwqHNw8=
+=kuix
+-----END PGP SIGNATURE-----

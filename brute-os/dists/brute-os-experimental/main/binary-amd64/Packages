@@ -1,0 +1,16 @@
+Package: brute-os-plymouth-theme
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Arijit Bhowmick <arijit_bhowmick@outlook.com>
+Installed-Size: 250
+Depends: plymouth (>= 0.8.8)
+Filename: pool/main/b/brute-os-plymouth-theme/brute-os-plymouth-theme_0.1-alpha_all.deb
+Size: 101738
+MD5sum: 1cd0b848183c6caccdabcf0a579bd66e
+SHA1: 5bac398216e0a8a88901f314262900411ed9aa2a
+SHA256: cf94b336e62d1c326e485f810c9a1a7eafdb5227ea23c215f69e35b3f2cc13b4
+Section: base
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/brute-os-plymouth-theme
+Description: Official Plymouth Theme for Brute OS
+
