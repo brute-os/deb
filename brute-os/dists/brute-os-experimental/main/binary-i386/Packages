@@ -1,3 +1,24 @@
+Package: brute-os-legacy-wallpapers
+Source: brute-os-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <brute-os@outlook.com>
+Installed-Size: 9
+Depends: brute-os-wallpapers-legacy
+Filename: pool/main/b/brute-os-wallpapers/brute-os-legacy-wallpapers_0.1-alpha_all.deb
+Size: 2596
+MD5sum: e8b99c444e24f3431a888e110bfec897
+SHA1: c06c1ead6f1f42f4183dc8113a02c573bf4a255d
+SHA256: d09acf353dd291f98d50181af5a1e5db68cf0e288229f27e7e85fffe8067d63e
+Section: oldlibs
+Priority: optional
+Description: Transitional package to install brute-os-wallpapers-legacy
+ The package has been renamed brute-os-wallpapers-legacy and is part of
+ the brute-os-wallpapers source package now.
+ .
+ This dummy package can be safely removed once brute-os-wallpapers-legacy
+ is installed on the system.
+
 Package: brute-os-plymouth-theme
 Version: 0.1-alpha
 Architecture: all
@@ -13,4 +34,85 @@ Section: base
 Priority: optional
 Homepage: https://gitlab.com/brute-os/packages/brute-os-plymouth-theme
 Description: Official Plymouth Theme for Brute OS
+
+Package: brute-os-wallpapers-2023
+Source: brute-os-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <brute-os@outlook.com>
+Installed-Size: 3342
+Breaks: brute-os-themes-common (<< 2020.4.4), brute-os-wallpapers-legacy (<< 2023.1.0~)
+Replaces: brute-os-themes-common (<< 2020.4.4), brute-os-wallpapers-legacy (<< 2023.1.0~)
+Filename: pool/main/b/brute-os-wallpapers/brute-os-wallpapers-2023_0.1-alpha_all.deb
+Size: 1820386
+MD5sum: 0580bb5d424d095acefa6ab666dc2f7e
+SHA1: aeeb2d8a5a3b11a721eb85ea612ccbf9b8885360
+SHA256: 3a2ac7f2e28a08e25af93b98bcb9e0b340e052751dbc747480943698cd0c5be6
+Section: misc
+Priority: optional
+Description: Default wallpapers for Brute OS 2023 and newer
+ This package contains multiple wallpapers for Brute OS 2023 and future
+ releases.
+ .
+ If you have multiple brute-os-wallpapers-YYYY.X packages on your system, you can
+ remove them all except the latest which is a dependency of brute-os-themes-common
+ and is thus required.
+
+Package: brute-os-wallpapers-all
+Source: brute-os-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <brute-os@outlook.com>
+Installed-Size: 9
+Depends: brute-os-wallpapers-2023, brute-os-wallpapers-legacy
+Filename: pool/main/b/brute-os-wallpapers/brute-os-wallpapers-all_0.1-alpha_all.deb
+Size: 2554
+MD5sum: cd6e142eab8fd1c4a61a0f7dab7ac115
+SHA1: ecc12034938adedea1788aa31d0d4898dddc29a9
+SHA256: 5c5089702875027e1f811b81d029168172a893a0b4b0b361438badd265349e4f
+Section: misc
+Priority: optional
+Description: All wallpapers for Brute OS
+ This metapackage depends on all brute-os-wallpapers-* packages, providing all the
+ wallpapers used for Brute OS and 101 Bytes
+
+Package: brute-os-wallpapers-legacy
+Source: brute-os-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <brute-os@outlook.com>
+Installed-Size: 9
+Breaks: brute-os-legacy-wallpapers (<< 2023.1.1)
+Replaces: brute-os-legacy-wallpapers (<< 2023.1.1)
+Filename: pool/main/b/brute-os-wallpapers/brute-os-wallpapers-legacy_0.1-alpha_all.deb
+Size: 2568
+MD5sum: f877e952706642d1f79965cb3f33d658
+SHA1: bd5209153dfb109060c8da77ecc7d85a8dc6752b
+SHA256: e0307a7c1810a7dbb30243293a653c8e59e7443328bb6211b06a703cc4587767
+Section: misc
+Priority: optional
+Description: Wallpapers used over the years
+ Wallpapers and resources used over the years for 101 Bytes & Dart OS,
+ used for nostalgic cosmetic value
+
+Package: brute-os-wallpapers-mobile-2023
+Source: brute-os-wallpapers
+Version: 0.1-alpha
+Architecture: all
+Maintainer: Dart OS Developers <brute-os@outlook.com>
+Installed-Size: 9
+Filename: pool/main/b/brute-os-wallpapers/brute-os-wallpapers-mobile-2023_0.1-alpha_all.deb
+Size: 2646
+MD5sum: c2f2f600c1703dc9168ad7873db6a76f
+SHA1: 30ad2d7713a030c2b81852cde75838e55b037e35
+SHA256: 61cc5f1b2050170b8ca1a50fecb6089f842b87dc1672e638dc7504e01298aaba
+Section: misc
+Priority: optional
+Description: Default wallpapers for Brute OS Mobile 2023 and newer
+ This package contains multiple wallpapers for Brute OS Mobile 2023 and future
+ releases.
+ .
+ If you have multiple brute-os-wallpapers-YYYY.X packages on your system, you can
+ remove them all except the latest which is a dependency of brute-os-themes-common
+ and is thus required.
 
