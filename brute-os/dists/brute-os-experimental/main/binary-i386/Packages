@@ -7,9 +7,9 @@ Installed-Size: 9
 Depends: brute-os-wallpapers-legacy
 Filename: pool/main/b/brute-os-wallpapers/brute-os-legacy-wallpapers_0.1-alpha_all.deb
 Size: 2596
-MD5sum: e8b99c444e24f3431a888e110bfec897
-SHA1: c06c1ead6f1f42f4183dc8113a02c573bf4a255d
-SHA256: d09acf353dd291f98d50181af5a1e5db68cf0e288229f27e7e85fffe8067d63e
+MD5sum: 2e9128985bcd0c9aac535b4b19584885
+SHA1: fbabf470966443f113d958270e0e7877bec5ca9e
+SHA256: c68a880c82e7fa6e80415af623effbff25c8c837a7c3f92a270c149df50a2628
 Section: oldlibs
 Priority: optional
 Description: Transitional package to install brute-os-wallpapers-legacy
@@ -45,9 +45,9 @@ Breaks: brute-os-themes-common (<< 2020.4.4), brute-os-wallpapers-legacy (<< 202
 Replaces: brute-os-themes-common (<< 2020.4.4), brute-os-wallpapers-legacy (<< 2023.1.0~)
 Filename: pool/main/b/brute-os-wallpapers/brute-os-wallpapers-2023_0.1-alpha_all.deb
 Size: 1820386
-MD5sum: 0580bb5d424d095acefa6ab666dc2f7e
-SHA1: aeeb2d8a5a3b11a721eb85ea612ccbf9b8885360
-SHA256: 3a2ac7f2e28a08e25af93b98bcb9e0b340e052751dbc747480943698cd0c5be6
+MD5sum: 00f8a19a714667df6371e7f77b22099b
+SHA1: 1a7b2eb21f60cce1c9d37dea2b5b2dd5d4fbc170
+SHA256: f8d293c708e414a0cfff445a86f39b7d3e116f8a5567270b5cf99dff70b83847
 Section: misc
 Priority: optional
 Description: Default wallpapers for Brute OS 2023 and newer
@@ -67,9 +67,9 @@ Installed-Size: 9
 Depends: brute-os-wallpapers-2023, brute-os-wallpapers-legacy
 Filename: pool/main/b/brute-os-wallpapers/brute-os-wallpapers-all_0.1-alpha_all.deb
 Size: 2554
-MD5sum: cd6e142eab8fd1c4a61a0f7dab7ac115
-SHA1: ecc12034938adedea1788aa31d0d4898dddc29a9
-SHA256: 5c5089702875027e1f811b81d029168172a893a0b4b0b361438badd265349e4f
+MD5sum: 59fa486abf650d9a6e0467525fa82d5c
+SHA1: 8716df9076c8b49baeeab7ec7612337dcd661509
+SHA256: 9c06b1fd63b4fdc2430267319f41ef7a3c31ea6cea227614c8a82d7c9ce1b579
 Section: misc
 Priority: optional
 Description: All wallpapers for Brute OS
@@ -86,33 +86,12 @@ Breaks: brute-os-legacy-wallpapers (<< 2023.1.1)
 Replaces: brute-os-legacy-wallpapers (<< 2023.1.1)
 Filename: pool/main/b/brute-os-wallpapers/brute-os-wallpapers-legacy_0.1-alpha_all.deb
 Size: 2568
-MD5sum: f877e952706642d1f79965cb3f33d658
-SHA1: bd5209153dfb109060c8da77ecc7d85a8dc6752b
-SHA256: e0307a7c1810a7dbb30243293a653c8e59e7443328bb6211b06a703cc4587767
+MD5sum: 6a0a44ebe065e3478118ddf3dac0480e
+SHA1: b7663fdbde8a943cddc36431f4fad2140bccfacf
+SHA256: 2c5c4981c9129d33cde1c9d65939732fab631bd8517be3ccaf2712327dfa2a2f
 Section: misc
 Priority: optional
 Description: Wallpapers used over the years
  Wallpapers and resources used over the years for 101 Bytes & Dart OS,
  used for nostalgic cosmetic value
-
-Package: brute-os-wallpapers-mobile-2023
-Source: brute-os-wallpapers
-Version: 0.1-alpha
-Architecture: all
-Maintainer: Dart OS Developers <brute-os@outlook.com>
-Installed-Size: 9
-Filename: pool/main/b/brute-os-wallpapers/brute-os-wallpapers-mobile-2023_0.1-alpha_all.deb
-Size: 2646
-MD5sum: c2f2f600c1703dc9168ad7873db6a76f
-SHA1: 30ad2d7713a030c2b81852cde75838e55b037e35
-SHA256: 61cc5f1b2050170b8ca1a50fecb6089f842b87dc1672e638dc7504e01298aaba
-Section: misc
-Priority: optional
-Description: Default wallpapers for Brute OS Mobile 2023 and newer
- This package contains multiple wallpapers for Brute OS Mobile 2023 and future
- releases.
- .
- If you have multiple brute-os-wallpapers-YYYY.X packages on your system, you can
- remove them all except the latest which is a dependency of brute-os-themes-common
- and is thus required.
 

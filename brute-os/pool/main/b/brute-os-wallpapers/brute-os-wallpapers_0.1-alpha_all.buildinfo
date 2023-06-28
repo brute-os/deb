@@ -3,7 +3,7 @@ Hash: SHA256
 
 Format: 1.0
 Source: brute-os-wallpapers
-Binary: brute-os-legacy-wallpapers brute-os-wallpapers-2023 brute-os-wallpapers-all brute-os-wallpapers-legacy brute-os-wallpapers-mobile-2023
+Binary: brute-os-legacy-wallpapers brute-os-wallpapers-2023 brute-os-wallpapers-all brute-os-wallpapers-legacy
 Architecture: all
 Version: 0.1-alpha
 Checksums-Md5:
@@ -11,22 +11,19 @@ Checksums-Md5:
  19e898db2ca71bd350dbd85859d81979 1819654 brute-os-wallpapers-2023_0.1-alpha_all.deb
  b60b35dbfc1c3d74f79cd87584f0b6fe 1826 brute-os-wallpapers-all_0.1-alpha_all.deb
  239c5d387ed30f2c6283a08168ab45f2 1840 brute-os-wallpapers-legacy_0.1-alpha_all.deb
- e23ce6d687b830d78f9b2d641e1afd62 1918 brute-os-wallpapers-mobile-2023_0.1-alpha_all.deb
 Checksums-Sha1:
  0111aa7865f0c84e111acd9f68729a15dad479a0 1868 brute-os-legacy-wallpapers_0.1-alpha_all.deb
  573bfbd3f447a25de1a6cc1cdd95fd298de40cb5 1819654 brute-os-wallpapers-2023_0.1-alpha_all.deb
  2f46ba58143c1a6ef614a091ef8fccce844bebfc 1826 brute-os-wallpapers-all_0.1-alpha_all.deb
  20e7f90f38a0a4a5a96fe286a4afd1b56a1a2083 1840 brute-os-wallpapers-legacy_0.1-alpha_all.deb
- 1cbb117f7db97a805d1e7d127317f8f8e4d3b29e 1918 brute-os-wallpapers-mobile-2023_0.1-alpha_all.deb
 Checksums-Sha256:
  044ebf684022d2efdbd94e84aa54bef03ad5b47273f7dac0db548c5d6064dea9 1868 brute-os-legacy-wallpapers_0.1-alpha_all.deb
  ef7a41cdf12f52a485ae7d2a6936019688c0a87ae6277fd80aca4c6ab61c14b4 1819654 brute-os-wallpapers-2023_0.1-alpha_all.deb
  ed10ae8175f03c1ac49bbe40eb321bb8204e46c6a9d4628eef67e09d36e16759 1826 brute-os-wallpapers-all_0.1-alpha_all.deb
  b4519b7e5a119d12bebd722a04347ef5858618a23071821bf5d499764c0556a0 1840 brute-os-wallpapers-legacy_0.1-alpha_all.deb
- 87f0ec8430314ccdbbba9a0360212676295434e12adeff92ee6fed9eded5d887 1918 brute-os-wallpapers-mobile-2023_0.1-alpha_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Tue, 27 Jun 2023 23:46:03 +0530
+Build-Date: Wed, 28 Jun 2023 10:07:38 +0530
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
 Installed-Build-Depends:
@@ -226,8 +223,8 @@ Environment:
 
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQhLSJURG1hYaqICCMUFTF3Wgb3YgUCZJsnbwAKCRAUFTF3Wgb3
-YrrnAP4wZXaX4HJ02qEfbmKh6vvBMYTOXNNx6UEdR+t8hmHJhQEAj+fhPEyQdqGh
-ylffRjpb6pblx3rSwkR1oPXPoHrCJgk=
-=ilIw
+iHUEARYIAB0WIQQhLSJURG1hYaqICCMUFTF3Wgb3YgUCZJu5HgAKCRAUFTF3Wgb3
+YmCfAQCH751TK7GFRC/gXOWGbmteyqe+6FxXXCdFRyL3CxgAggEA/rsAHnn61vJ2
+2nDN6pD1IvTO5hdHWYbhfq64h+8/NQ8=
+=olP7
 -----END PGP SIGNATURE-----
