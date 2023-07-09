@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sat, 08 Jul 2023 01:15:02 +0530
+Source: brute-os-plymouth-theme
+Binary: brute-os-plymouth-theme
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 0.1.0-0brute1
+Distribution: brute-os-dev
+Urgency: medium
+Maintainer: Arijit Bhowmick <arijit_bhowmick@outlook.com>
+Changed-By: Arijit Bhowmick <arijit_bhowmick@outlook.com>
+Description:
+ brute-os-plymouth-theme - Official Plymouth Theme for Brute OS
+Changes:
+ brute-os-plymouth-theme (0.1.0-0brute1) brute-os-dev; urgency=medium
+ .
+   [ Arijit Bhowmick ]
+   * Changed pkg Compressing Technology to gzip
+     - Added pkg installation support to debian
+Checksums-Sha1:
+ a0563f537b2c9b00ad2fdb233810c10cd5065dcd 999 brute-os-plymouth-theme_0.1.0-0brute1.dsc
+ b8a9b01eaddc8148b8b888b3372515c36b000eef 98624 brute-os-plymouth-theme_0.1.0-0brute1.tar.xz
+ d6bdb5497c4e713c291748005babe43f29efe8b4 106418 brute-os-plymouth-theme_0.1.0-0brute1_all.deb
+ 1ea98f28727155b5879a34251e26d9f694d61772 8114 brute-os-plymouth-theme_0.1.0-0brute1_amd64.buildinfo
+Checksums-Sha256:
+ 5ffce90de54ae983ed8d10da565aad70773a03b79d3542e160534415cff1080f 999 brute-os-plymouth-theme_0.1.0-0brute1.dsc
+ c0f0069f3a0474486240b8d2143a7ff5ffdebe4b0b11e46d8568eb85a6b4cc58 98624 brute-os-plymouth-theme_0.1.0-0brute1.tar.xz
+ 16dc75fe31d70ed6eb544e3843adc4a237475063b90ba42429a86158127e3d3e 106418 brute-os-plymouth-theme_0.1.0-0brute1_all.deb
+ 49e36037c0f949f78a312b0904f12e4298c10a1b73db9774d102e9ae402a36e2 8114 brute-os-plymouth-theme_0.1.0-0brute1_amd64.buildinfo
+Files:
+ e55a317cca976f9e0548ae681e40070f 999 base optional brute-os-plymouth-theme_0.1.0-0brute1.dsc
+ da52243f5ac1fefd6168e767c4650944 98624 base optional brute-os-plymouth-theme_0.1.0-0brute1.tar.xz
+ b0631afcc3a2c74b30c5a35c39c959c3 106418 base optional brute-os-plymouth-theme_0.1.0-0brute1_all.deb
+ b279b9e2f1da56cee8b94fec96891c1a 8114 base optional brute-os-plymouth-theme_0.1.0-0brute1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQhLSJURG1hYaqICCMUFTF3Wgb3YgUCZKrBjQAKCRAUFTF3Wgb3
+Ylv6AP90ddgCEUs0t2XITN+/ODZ2mgQPGTA9w+7Ke4vOUXxi5AEAzvwdn7Qe513J
+jMRCDThxEkSexZQ7Syp9IhSoNXqsbww=
+=1/wj
+-----END PGP SIGNATURE-----

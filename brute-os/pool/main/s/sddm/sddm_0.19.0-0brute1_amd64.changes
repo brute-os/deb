@@ -1,0 +1,78 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sun, 02 Jul 2023 12:06:02 +0530
+Source: sddm
+Binary: sddm sddm-theme-breeze sddm-theme-debian-elarun sddm-theme-debian-maui sddm-theme-elarun sddm-theme-lubuntu sddm-theme-maldives sddm-theme-maui sddm-theme-maya
+Built-For-Profiles: noudeb
+Architecture: source all amd64
+Version: 0.19.0-0brute1
+Distribution: brute-os-dev
+Urgency: medium
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Changed-By: Arijit Bhowmick <arijit_bhowmick@outlook.com>
+Description:
+ sddm       - modern display manager for X11
+ sddm-theme-breeze - 'Breeze' theme for SDDM X11 display manager
+ sddm-theme-debian-elarun - 'Debian Elarun' Theme for SDDM X11 display manager
+ sddm-theme-debian-maui - 'Debian Maui' theme for SDDM X11 display manager
+ sddm-theme-elarun - 'Elarun' Theme for SDDM X11 display manager
+ sddm-theme-lubuntu - 'Lubuntu' theme for SDDM X11 display manager
+ sddm-theme-maldives - 'Maldives' theme for SDDM X11 display manager
+ sddm-theme-maui - 'Maui' theme for SDDM X11 display manager
+ sddm-theme-maya - 'Maya' theme for SDDM X11 display manager
+Changes:
+ sddm (0.19.0-0brute1) brute-os-dev; urgency=medium
+ .
+   [ Arijit Bhowmick ]
+   * Merged Ubuntu sddm_0.19.0 to brute OS repository
+     - Initial Merge to brute os pkg repository
+Checksums-Sha1:
+ ecd37145aa5724197eae19bc71a7785462cfbfb1 1965 sddm_0.19.0-0brute1.dsc
+ ff81a246e7b552b9c8f2ae8b964a0a7f22bc9e64 3870000 sddm_0.19.0-0brute1.tar.xz
+ 33699d520922e1ad439aa5d74d1c98bb50f32247 339846 sddm-theme-breeze_0.19.0-0brute1_all.deb
+ e4c16b21afc1d294a70fa30e1e79239cf7d6cc3a 1323634 sddm-theme-debian-elarun_0.19.0-0brute1_all.deb
+ 336beaf7ecd3db2b6c9fd4f391e1c5167e6b67ec 221846 sddm-theme-debian-maui_0.19.0-0brute1_all.deb
+ f094cdef3c4f1e8031ab523fa97e60d86544fcbf 1323492 sddm-theme-elarun_0.19.0-0brute1_all.deb
+ 6b234f48e940914b2aaf6d0d3d7ce68e902c0907 29994 sddm-theme-lubuntu_0.19.0-0brute1_all.deb
+ bc1a3eda906e9d2a80cc0d32fee1679d834ad03d 1241976 sddm-theme-maldives_0.19.0-0brute1_all.deb
+ 1ee09d067d1ace3010d1192444961918a80eb031 313028 sddm-theme-maui_0.19.0-0brute1_all.deb
+ a14cc95459e708da0f6efc2a7618d83c498e266e 121314 sddm-theme-maya_0.19.0-0brute1_all.deb
+ cfb09eecbda6b4f04b4bfb60cca8d50cbda23246 18943 sddm_0.19.0-0brute1_amd64.buildinfo
+ a5f5292b718e705eae8965e4d39c81b41e9a0dcd 649766 sddm_0.19.0-0brute1_amd64.deb
+Checksums-Sha256:
+ 4c06f9d0d46770f26c28c92705d2a78b25915f9daa5356a43fec89755b0bdd51 1965 sddm_0.19.0-0brute1.dsc
+ 6abb89420c1e9a9da380601acbc0991fc90259a58d801318a1fe92205ad47dc4 3870000 sddm_0.19.0-0brute1.tar.xz
+ 23467a96d3aa03950300898053789dc9a011fb84e47e215e34822621fa94ea20 339846 sddm-theme-breeze_0.19.0-0brute1_all.deb
+ a4fbfb011e0e59dc973335e797bbc93b89e0b291bbfc3977204a5412598a7ba5 1323634 sddm-theme-debian-elarun_0.19.0-0brute1_all.deb
+ 92aa99e7df0ddad8e2bac7a4e8c02dea4a9aa9ad6987a0705356907aac3808be 221846 sddm-theme-debian-maui_0.19.0-0brute1_all.deb
+ e60e0f8e7d698f6427498092213ac47a0936dc22e82a853c6cbf0c8ce1e5e9dc 1323492 sddm-theme-elarun_0.19.0-0brute1_all.deb
+ e1596e7e906509ff73ee8e2a3f072126df2fc66d483d8d9d1f4d3a4b83271d6c 29994 sddm-theme-lubuntu_0.19.0-0brute1_all.deb
+ 2b7a708f7d993bacc3ea4df376c8add96041f124cb398bb67f1712a423781fd5 1241976 sddm-theme-maldives_0.19.0-0brute1_all.deb
+ 03c51b81f47446ea0dfc4f47d88235c41d594013ae440edfa51edab0d979e277 313028 sddm-theme-maui_0.19.0-0brute1_all.deb
+ e8195379015165b825abafa3a03cdd154f13d44b01459cb8272c1a864e5b5c59 121314 sddm-theme-maya_0.19.0-0brute1_all.deb
+ 1bdb2697dc6f48c146bb17719611b41c890cc8337fb5932bfc9b5cc8e1f2bca3 18943 sddm_0.19.0-0brute1_amd64.buildinfo
+ b723692cb076d778bd5d4145ef7407001ace06d4c8d4127ccccd520116b2c127 649766 sddm_0.19.0-0brute1_amd64.deb
+Files:
+ ec79e97e85eef5e18fbd0c4f7a0e2208 1965 kde optional sddm_0.19.0-0brute1.dsc
+ 0375f85c43c5019bea44acfb0b6d9147 3870000 kde optional sddm_0.19.0-0brute1.tar.xz
+ e3d1688b75cb0d6887740e6703441dcf 339846 kde optional sddm-theme-breeze_0.19.0-0brute1_all.deb
+ 3ad1e52ee5259e1b9a8d149e04599b37 1323634 kde optional sddm-theme-debian-elarun_0.19.0-0brute1_all.deb
+ 5a077c983720f924af7f7d727d3d2d10 221846 kde optional sddm-theme-debian-maui_0.19.0-0brute1_all.deb
+ 3caa9670bfe628c70a00423f8d435c4e 1323492 kde optional sddm-theme-elarun_0.19.0-0brute1_all.deb
+ 121dc25151ad6a33f1de7e1eab538ecf 29994 kde optional sddm-theme-lubuntu_0.19.0-0brute1_all.deb
+ 9a338dddc87bf1d85c3c3a6aca388866 1241976 kde optional sddm-theme-maldives_0.19.0-0brute1_all.deb
+ 33870d229c0f815d45922c5615d8340e 313028 kde optional sddm-theme-maui_0.19.0-0brute1_all.deb
+ 85841743a2f63d13a79ec12714df4808 121314 kde optional sddm-theme-maya_0.19.0-0brute1_all.deb
+ 7fc52e8802ab620b396dee35e697ee2f 18943 kde optional sddm_0.19.0-0brute1_amd64.buildinfo
+ 56842140a4f81d2e94cf16a26ae537c7 649766 kde optional sddm_0.19.0-0brute1_amd64.deb
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQhLSJURG1hYaqICCMUFTF3Wgb3YgUCZKrBxwAKCRAUFTF3Wgb3
+YhniAP0a6lB68WswtJtHrRYHO4b0oknz2JhFFSyVgIue5Fj85wEA4RKR5UO7kIWR
+ph0ay/XM1KLP6HfjBqa7eeM/y1zGyww=
+=HBpt
+-----END PGP SIGNATURE-----

@@ -7,9 +7,9 @@ Installed-Size: 9
 Depends: brute-os-wallpapers-legacy
 Filename: pool/main/b/brute-os-wallpapers/brute-os-legacy-wallpapers_0.1-alpha_all.deb
 Size: 2596
-MD5sum: 2e9128985bcd0c9aac535b4b19584885
-SHA1: fbabf470966443f113d958270e0e7877bec5ca9e
-SHA256: c68a880c82e7fa6e80415af623effbff25c8c837a7c3f92a270c149df50a2628
+MD5sum: 44eca109591994025ea7c78db2650385
+SHA1: 8cee2fdf32330501e73857b58773652f5c324bd0
+SHA256: 1806e90dffa067149771f8489d0388f741c903e07a253927f561454f993b0dd8
 Section: oldlibs
 Priority: optional
 Description: Transitional package to install brute-os-wallpapers-legacy
@@ -35,6 +35,22 @@ Priority: optional
 Homepage: https://gitlab.com/brute-os/packages/brute-os-plymouth-theme
 Description: Official Plymouth Theme for Brute OS
 
+Package: brute-os-plymouth-theme
+Version: 0.1.0-0brute1
+Architecture: all
+Maintainer: Arijit Bhowmick <arijit_bhowmick@outlook.com>
+Installed-Size: 250
+Depends: plymouth (>= 0.8.8)
+Filename: pool/main/b/brute-os-plymouth-theme/brute-os-plymouth-theme_0.1.0-0brute1_all.deb
+Size: 107148
+MD5sum: a9ef6ae6a13dd2fda72ce4a3e36abbdb
+SHA1: 54b28d661699500bca0d987ab6f57de9c963aae9
+SHA256: 3d6fe83630872c1914ecb99b9a98451364c0c9b72c511571cbdac7555bc795f4
+Section: base
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/brute-os-plymouth-theme
+Description: Official Plymouth Theme for Brute OS
+
 Package: brute-os-wallpapers-2023
 Source: brute-os-wallpapers
 Version: 0.1-alpha
@@ -45,9 +61,9 @@ Breaks: brute-os-themes-common (<< 2020.4.4), brute-os-wallpapers-legacy (<< 202
 Replaces: brute-os-themes-common (<< 2020.4.4), brute-os-wallpapers-legacy (<< 2023.1.0~)
 Filename: pool/main/b/brute-os-wallpapers/brute-os-wallpapers-2023_0.1-alpha_all.deb
 Size: 1820386
-MD5sum: 00f8a19a714667df6371e7f77b22099b
-SHA1: 1a7b2eb21f60cce1c9d37dea2b5b2dd5d4fbc170
-SHA256: f8d293c708e414a0cfff445a86f39b7d3e116f8a5567270b5cf99dff70b83847
+MD5sum: c4729f0de32643365bba324592f01e7b
+SHA1: b3d2ac0057585753c93dae46dbd339877e4666e9
+SHA256: dafd76d9067fa7db0c2f1435648e16672d752cd2ba00b185d492e3463d79265d
 Section: misc
 Priority: optional
 Description: Default wallpapers for Brute OS 2023 and newer
@@ -67,9 +83,9 @@ Installed-Size: 9
 Depends: brute-os-wallpapers-2023, brute-os-wallpapers-legacy
 Filename: pool/main/b/brute-os-wallpapers/brute-os-wallpapers-all_0.1-alpha_all.deb
 Size: 2554
-MD5sum: 59fa486abf650d9a6e0467525fa82d5c
-SHA1: 8716df9076c8b49baeeab7ec7612337dcd661509
-SHA256: 9c06b1fd63b4fdc2430267319f41ef7a3c31ea6cea227614c8a82d7c9ce1b579
+MD5sum: aace4d28f810b5da682cb7bb1fc1a46a
+SHA1: a9e94fa734c8777c8c52d7cb3c628c6d845f90c7
+SHA256: 75b3d100dc57dc3252c2cdd46d4ee86467d384688d21c8c3652298f386962486
 Section: misc
 Priority: optional
 Description: All wallpapers for Brute OS
@@ -86,12 +102,207 @@ Breaks: brute-os-legacy-wallpapers (<< 2023.1.1)
 Replaces: brute-os-legacy-wallpapers (<< 2023.1.1)
 Filename: pool/main/b/brute-os-wallpapers/brute-os-wallpapers-legacy_0.1-alpha_all.deb
 Size: 2568
-MD5sum: 6a0a44ebe065e3478118ddf3dac0480e
-SHA1: b7663fdbde8a943cddc36431f4fad2140bccfacf
-SHA256: 2c5c4981c9129d33cde1c9d65939732fab631bd8517be3ccaf2712327dfa2a2f
+MD5sum: cfb2b2f741634480145eed41c4b42e98
+SHA1: e4d595d00939595f2eccb9e834d2fef938703a80
+SHA256: 5c41614a441ee3d25ef0270a799a111e1834374e4a3fa603bed897478154e449
 Section: misc
 Priority: optional
 Description: Wallpapers used over the years
  Wallpapers and resources used over the years for 101 Bytes & Dart OS,
  used for nostalgic cosmetic value
+
+Package: sddm
+Version: 0.19.0-0brute1
+Architecture: amd64
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 1692
+Depends: adduser, qml-module-qtquick2, xauth, x11-common, xserver-xorg | xserver, debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libpam0g (>= 0.99.7.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0~) | libqt5gui5-gles (>= 5.8.0~), libqt5network5 (>= 5.8.0~), libqt5qml5 (>= 5.8.0~), libqt5quick5 (>= 5.8.0~) | libqt5quick5-gles (>= 5.8.0~), libstdc++6 (>= 5.2), libsystemd0, libxcb-xkb1, libxcb1
+Recommends: haveged, libpam-systemd, sddm-theme-debian-maui | sddm-theme
+Suggests: libpam-kwallet5, qtvirtualkeyboard-plugin
+Provides: x-display-manager
+Filename: pool/main/s/sddm/sddm_0.19.0-0brute1_amd64.deb
+Size: 650500
+MD5sum: 2433834b6bb0061fd21b37fae70d21a8
+SHA1: 63d7c4cf1fc4a39c2be0abf39f3a87c96e280389
+SHA256: 4e3d9d6950fddfaa51dad99c0e35ea08b96b9e9b3dec52bdce31176723f454ab
+Section: kde
+Priority: optional
+Homepage: https://github.com/sddm/sddm
+Description: modern display manager for X11
+ SDDM is a modern display manager for X11 aiming to be fast, simple
+ and beautiful. It uses modern technologies like QtQuick to create
+ smooth, animated user interfaces.
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-breeze
+Source: sddm
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 470
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm/sddm-theme-breeze_0.19.0-0brute1_all.deb
+Size: 340578
+MD5sum: 0d5dee2bd794123d74745027c80f0611
+SHA1: 997415f8dd80ea4fb86636fd536a8cdaa4e5931a
+SHA256: 12b699cfe4a77835da024c4b69b507a8497229513d852a9ab0a3df2dd11d750f
+Section: kde
+Priority: optional
+Homepage: https://github.com/sddm/sddm
+Description: 'Breeze' theme for SDDM X11 display manager
+ Breeze theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-debian-elarun
+Source: sddm
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 1398
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm/sddm-theme-debian-elarun_0.19.0-0brute1_all.deb
+Size: 1324368
+MD5sum: 5a99b23b6c3f3aaa59553922565157ce
+SHA1: 75e636de79bbee42f91720f949588da1cf5ba5c0
+SHA256: 5b8604d06aec9230546f54385c1cf3e474a0ae94bba794abecb4486f542e071d
+Section: kde
+Priority: optional
+Homepage: https://github.com/sddm/sddm
+Description: 'Debian Elarun' Theme for SDDM X11 display manager
+ Elarun theme for SDDM, using the active desktop-base theme for the
+ background.
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-debian-maui
+Source: sddm
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 315
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm/sddm-theme-debian-maui_0.19.0-0brute1_all.deb
+Size: 222578
+MD5sum: ce7ad61ecb465e56d237af3bdce0ef54
+SHA1: 726ef1cd456692832633bb0f06c2e927ea240711
+SHA256: 62722d33c9996b765566aeb6d5d59baacfbf9044a7aaecd9ad5c952a91f8f325
+Section: kde
+Priority: optional
+Homepage: https://github.com/sddm/sddm
+Description: 'Debian Maui' theme for SDDM X11 display manager
+ Maui theme for SDDM, using the active desktop-base theme for the
+ background
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-elarun
+Source: sddm
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 1397
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm/sddm-theme-elarun_0.19.0-0brute1_all.deb
+Size: 1324226
+MD5sum: d04391a3c6ca8c66b1d630737245a5b0
+SHA1: f085cbc1ef36ad1f53bc127f3cec444745f01259
+SHA256: 10d2cb9ebc643bc266861382eb9db7fbe0582dfc346544d7f5519bd36e097616
+Section: kde
+Priority: optional
+Homepage: https://github.com/sddm/sddm
+Description: 'Elarun' Theme for SDDM X11 display manager
+ Elarun theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-lubuntu
+Source: sddm
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 126
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm/sddm-theme-lubuntu_0.19.0-0brute1_all.deb
+Size: 30726
+MD5sum: f807ebb54692d15b18cd98679ecbc6c6
+SHA1: 40a7ab20165c285ff1164f8a40ac5c598ccd69ed
+SHA256: 9bc5786d9b86813e3b2674013018343b8d6edb9302c769e8f9354da60edef690
+Section: kde
+Priority: optional
+Homepage: https://github.com/sddm/sddm
+Description: 'Lubuntu' theme for SDDM X11 display manager
+ Laui theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-maldives
+Source: sddm
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 1317
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm/sddm-theme-maldives_0.19.0-0brute1_all.deb
+Size: 1242710
+MD5sum: 3e523a29c799fbbe9d2cc5a41adba0b5
+SHA1: 865a394caef5fa18acbf83a3f670eb9ca5ed9afa
+SHA256: aab2cc4b925a9edac6db6b77c996d907beb764286361c664265619fa98ff7f78
+Section: kde
+Priority: optional
+Homepage: https://github.com/sddm/sddm
+Description: 'Maldives' theme for SDDM X11 display manager
+ Maldives theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-maui
+Source: sddm
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 422
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm/sddm-theme-maui_0.19.0-0brute1_all.deb
+Size: 313760
+MD5sum: 0ef50f87630d5fff961970bbcdc382ef
+SHA1: 745b56bd166ca5644e69ccce7e326cac24af38b5
+SHA256: 481f723c2ba8b3668f23dca5b0634336ec1a200dda00c2b52357cef3553575b4
+Section: kde
+Priority: optional
+Homepage: https://github.com/sddm/sddm
+Description: 'Maui' theme for SDDM X11 display manager
+ Maui theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-maya
+Source: sddm
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 355
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm/sddm-theme-maya_0.19.0-0brute1_all.deb
+Size: 122046
+MD5sum: 5bffe52bd0a830ee77820a220bca8431
+SHA1: 0b43815b01413b2a4e0306dda6cec0bcff46fb31
+SHA256: 77823dea1492f387164c3b0fab507b9aa226be8a759ad178cdaa98aeadb48df1
+Section: kde
+Priority: optional
+Homepage: https://github.com/sddm/sddm
+Description: 'Maya' theme for SDDM X11 display manager
+ Maya theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 
