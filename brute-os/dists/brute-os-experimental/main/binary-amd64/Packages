@@ -111,6 +111,27 @@ Description: Wallpapers used over the years
  Wallpapers and resources used over the years for 101 Bytes & Dart OS,
  used for nostalgic cosmetic value
 
+Package: neofetch
+Version: 7.1.0-5
+Architecture: all
+Maintainer: Arijit Bhowmick <arijit_bhowmick@outlook.com>
+Installed-Size: 353
+Recommends: chafa, caca-utils, imagemagick, jp2a, libsixel-bin, w3m-img, pciutils
+Filename: pool/main/n/neofetch/neofetch_7.1.0-5_all.deb
+Size: 95952
+MD5sum: 4e1e2192205da344a82dea5c4cc47bc7
+SHA1: a75b2bc337ad1c847c91d35378ade4c324d499db
+SHA256: 5dd6c5f0793b296c38da57fffc907fbf71561dc73ba8f5c11c6cbea3a492d343
+Section: utils
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://github.com/sys41x4/neofetch/
+Description: Shows Linux System Information with Distribution Logo
+ Neofetch is a cross-platform and easy-to-use system information
+ command line script that collects your Linux system information
+ and display it on the terminal next to an image, it could be your
+ distributions logo or any ascii art of your choice.
+
 Package: sddm
 Version: 0.19.0-0brute1
 Architecture: amd64

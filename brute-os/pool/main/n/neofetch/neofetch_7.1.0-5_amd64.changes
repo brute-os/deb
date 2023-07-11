@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sun, 10 Jul 2023 12:06:02 +0530
+Source: neofetch
+Binary: neofetch
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 7.1.0-5
+Distribution: unstable
+Urgency: medium
+Maintainer: Arijit Bhowmick <arijit_bhowmick@outlook.com>
+Changed-By: Arijit Bhowmick <arijit_bhowmick@outlook.com>
+Description:
+ neofetch   - Shows Linux System Information with Distribution Logo
+Changes:
+ neofetch (7.1.0-5) unstable; urgency=medium
+ .
+   [ Arijit Bhowmick ]
+   * Added Brute OS Support
+     - Added Brute OS Logo
+     - Added Brute OS Config
+Checksums-Sha1:
+ b4f729ea68a7ddfc04f25fe8575f21b7fdd6e405 1021 neofetch_7.1.0-5.dsc
+ 45ad3d9c2249208c84889316d25dad92a1da8bd7 83524 neofetch_7.1.0-5.tar.xz
+ 899baacc0747fe5504d58734104792a8a82c1765 95224 neofetch_7.1.0-5_all.deb
+ e24a8fb98ff069cc3e238bbb603863de9af8d05d 7952 neofetch_7.1.0-5_amd64.buildinfo
+Checksums-Sha256:
+ aa47803aa24cb255703c4ef11f37bf4ed0cddff875d3fd1bbbb5bc3d432154e7 1021 neofetch_7.1.0-5.dsc
+ 1f80fbcbbec2ca9b15ff68a87a874eb643cbf397e544c2b9203044e23db07011 83524 neofetch_7.1.0-5.tar.xz
+ f7c768c555b51f92e5730efe0f8baa965f094fbf98f6820f8f2d4846aa189eb0 95224 neofetch_7.1.0-5_all.deb
+ 63073f1d3f680b2a5f641e580b1308f0082995c06970b2b26499eba48e7dfb84 7952 neofetch_7.1.0-5_amd64.buildinfo
+Files:
+ d37a8efb72a7a7d9c009488cef9ecea5 1021 utils optional neofetch_7.1.0-5.dsc
+ 95c79bdf5f999fcac970654804a4dfd7 83524 utils optional neofetch_7.1.0-5.tar.xz
+ 561206e6f56ceb8d0ff5e8c73ab1abe9 95224 utils optional neofetch_7.1.0-5_all.deb
+ 080efb85f966f23efff456fc51add08f 7952 utils optional neofetch_7.1.0-5_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQhLSJURG1hYaqICCMUFTF3Wgb3YgUCZKx0KwAKCRAUFTF3Wgb3
+YlSGAQDa+JXANWnwjB71TU9H4pNqSriJ8GTeR3vYhk3GrvFTQwD/dBmwVStfrDjT
+aDzwNKXNCLWXgj5dPU/uVnHr7QNkcwM=
+=fgL4
+-----END PGP SIGNATURE-----
