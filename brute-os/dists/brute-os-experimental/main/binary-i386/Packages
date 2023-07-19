@@ -132,6 +132,94 @@ Description: Shows Linux System Information with Distribution Logo
  and display it on the terminal next to an image, it could be your
  distributions logo or any ascii art of your choice.
 
+Package: sddm-theme-amiga-os-13
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 574
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-amiga-os-13_0.19.0-0brute1_all.deb
+Size: 131628
+MD5sum: b56d709a31e277d0d0ac20620a224752
+SHA1: 0691f5f2a09cd0490257f6aa90c10f30d5d84bfb
+SHA256: c33b4dcd53dd50d25b8b0a0adc536d520765398ecd8089fe7ac87947c369ff7d
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'AmigaOS13' Theme for SDDM X11 display manager
+ AmigaOS13 theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-amiga-os-classic
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 399
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-amiga-os-classic_0.19.0-0brute1_all.deb
+Size: 114998
+MD5sum: 493e650db7f620cdaf25ab184335364a
+SHA1: a5cdeb0a06331fbc9d783099986701f4f993df55
+SHA256: aeb060f71da4a3e100f422f3d4c11ecee244536b1bed3cc69d06de2cd4818734
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'AmigaOSClassic' Theme for SDDM X11 display manager
+ AmigaOSClassic theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-amiga-os-pharaoh
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 446
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-amiga-os-pharaoh_0.19.0-0brute1_all.deb
+Size: 121890
+MD5sum: ce5f70a46b4f120d370bab578be2c896
+SHA1: f18afeb54142c910415b55941a1b52dbb2cb9d6d
+SHA256: b9615473892ebd8bc0060bb39989db5dc02d991f8865d29620927fee6748b189
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'AmigaOSPharaoh' Theme for SDDM X11 display manager
+ AmigaOS Pharaoh theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-andromeda-kde
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 2016
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-andromeda-kde_0.19.0-0brute1_all.deb
+Size: 1934338
+MD5sum: 3268388a010dcc21d62cf61bc8311cd3
+SHA1: 761af1ac368cf74893720b4041b53299cdea65db
+SHA256: c55a957704a7e7c8f21f1af6300246a4beaa0e5b4e964b2c707bf845d5dfc0d9
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'Andromeda-KDE' Theme for SDDM X11 display manager
+ Andromeda KDE theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
 Package: sddm-theme-breeze
 Source: sddm
 Version: 0.19.0-0brute1
@@ -151,6 +239,402 @@ Priority: optional
 Homepage: https://github.com/sddm/sddm
 Description: 'Breeze' theme for SDDM X11 display manager
  Breeze theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-classic
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4114
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-classic_0.19.0-0brute1_all.deb
+Size: 771830
+MD5sum: adcf8f627b74e63e469ef1eb86518872
+SHA1: f025e57332c4c3892fb37629a6027274f8fe2326
+SHA256: 282388efc1cfa0198f420cb1daa1cefb0ed1bb616ded7577244cb6d8e7284da4
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64-Classic' Theme for SDDM X11 display manager
+ C64-Classic theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-classic-fancy
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4096
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-classic-fancy_0.19.0-0brute1_all.deb
+Size: 753090
+MD5sum: fbd52272392ab82502870b0c77decede
+SHA1: 2b7e8fb6d20facdb0b02c08ef86c1c19b21a57c7
+SHA256: 1f87ff10cd7a1e23802f9c6f114f31ae97c8f6a960ecabea0f79bd39e70ce3d5
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64-ClassicFancy' Theme for SDDM X11 display manager
+ C64-ClassicFancy theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-geos
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4231
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-geos_0.19.0-0brute1_all.deb
+Size: 851190
+MD5sum: 9eaba616c6491954f4c600ab58d042fe
+SHA1: bc29701c89c27120a0b5adcf5b027e03ed02d566
+SHA256: cd23f404e91eba482d8b16f971dbe56d5705c5c661388b3948eb39779f99d6d2
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64 GEOS' Theme for SDDM X11 display manager
+ C64 GEOS theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-gijoe
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4164
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-gijoe_0.19.0-0brute1_all.deb
+Size: 822724
+MD5sum: 1228202a9a2c3bc430675123c438288f
+SHA1: 121df38abd2a29c534ba33b6d6f08e6fdc29d347
+SHA256: 4904dd1da2616d3f759da5c99b3463ee19bce0c23ceb7c9988d36675af5a083e
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64 GIJoe' Theme for SDDM X11 display manager
+ C64 GIJoe theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-holiday
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4128
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-holiday_0.19.0-0brute1_all.deb
+Size: 785394
+MD5sum: 9032978d22bb7e9265a387f447ec906e
+SHA1: 612db1a1d074eb9ea7cb13573f59b193b5329a9f
+SHA256: 26c47e8e0abf85f5bb70e2b24e024cfdfec1b8cfeae7ddc44387e03e15b8db08
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64-Holiday' Theme for SDDM X11 display manager
+ C64 Holiday theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-ik
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4138
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-ik_0.19.0-0brute1_all.deb
+Size: 793296
+MD5sum: 0b72067ba1d998c0fe501cac25c253b3
+SHA1: 32de5eeeb31cb1172cf1363c6c0a80b092c48235
+SHA256: 0979e59d2e4449b0c7aed4efd02d00c7769d16defb95de469d3fcd20798d6bd4
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64-IK' Theme for SDDM X11 display manager
+ C64 IK theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-lcp
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4127
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-lcp_0.19.0-0brute1_all.deb
+Size: 781344
+MD5sum: 22485ee5a568ee882850b6cf8898a3d3
+SHA1: 60085c2d4d1c4206ab4d4c6a26bfbc1e85b076b6
+SHA256: bd6785fbbfc39f28ef25c4442097de983c420510e3e58eb985cd36c2f619d1f1
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64-LCP' Theme for SDDM X11 display manager
+ C64-LCP theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-ninja
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4113
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-ninja_0.19.0-0brute1_all.deb
+Size: 769864
+MD5sum: 854cff31eb8cfa434639583725293d49
+SHA1: a9b258d3f317c3cdcf84e568730653fbf5813a75
+SHA256: 20d39b5e20117f1a9a10b8cfad2e9a879e52af398eaed2f13d69cc60c45ea25f
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64-Ninja' Theme for SDDM X11 display manager
+ C64-Ninja theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-robot
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4116
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-robot_0.19.0-0brute1_all.deb
+Size: 773376
+MD5sum: 9c62fdd243e899593c25adc61eef0c7a
+SHA1: 77d67972b2ce505c111ddc3a662787b38192bf7a
+SHA256: 3efc4b9a9a07a5318c51cf8f67446d545d37ada8c13e7f136b33fbe5298fbd4a
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64 Robot' Theme for SDDM X11 display manager
+ C64 Robot theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-spacetaxi
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4127
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-spacetaxi_0.19.0-0brute1_all.deb
+Size: 783934
+MD5sum: a09fb9b01b1fbc1ae8750e277870f7fb
+SHA1: 0cbd4e706cc448bb2a482989a282fcd46ad48595
+SHA256: 3526743d414e99b48bd391b0a91128c64965355a9ef4f45a99516962dd8fabc1
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64 SpaceTaxi' Theme for SDDM X11 display manager
+ C64 SpaceTaxi theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-summergames
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4146
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-summergames_0.19.0-0brute1_all.deb
+Size: 782312
+MD5sum: 3a372fce522440ebb5332f3b17cfe0ec
+SHA1: 21a39547b8fc4e18d014d4bfcda0d01619aa3780
+SHA256: 03b46baa12fe79342df6aee60657297209634ed9da1e2a882cbabc32735742cb
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64 SummerGames' Theme for SDDM X11 display manager
+ C64 SummerGames theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-c64-timecrystal
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4227
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-c64-timecrystal_0.19.0-0brute1_all.deb
+Size: 887944
+MD5sum: 0384af8eeafb8bbfb08c0a600d54a927
+SHA1: 77e51aead3276753f33950e556d6c2e2c0e97165
+SHA256: 1bf735b7e6500414179651c5997a251cc70efae257186fae3ca57ed80af42836
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'C64-TimeCrystal' Theme for SDDM X11 display manager
+ C64 TimeCrystal theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-catppuccin-frappe
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 229
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-catppuccin-frappe_0.19.0-0brute1_all.deb
+Size: 90352
+MD5sum: 200caf3f0c04e475e5b3def70ad9284b
+SHA1: a7b85dc6a64256d5d3d5c3180f0bc104473986ad
+SHA256: 460c5b2c6d2f2e6270300172deb3f7fab725c146f011f7cd8f43171cafd4fe31
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'catppuccin-frappe' Theme for SDDM X11 display manager
+ catppuccin-frappe theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-catppuccin-latte
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 241
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-catppuccin-latte_0.19.0-0brute1_all.deb
+Size: 90598
+MD5sum: 36d16ceaec5a39ba6a90bc601773a929
+SHA1: 54c53b4ac783709415b57fc878bc16836b54374a
+SHA256: 8942d26b8529253e3803f6ff7675f56c15fe0e64e5a1ece887acc0642116a69a
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'catppuccin-latte' Theme for SDDM X11 display manager
+ catppuccin-latte theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-catppuccin-macchiato
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 229
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-catppuccin-macchiato_0.19.0-0brute1_all.deb
+Size: 90452
+MD5sum: cb19c1541662c9937bc3e6800d287f8d
+SHA1: 9411ac19a2223e87f4f81448ec6da87f55ffd0ec
+SHA256: d74ac8c6c0e3ba31843ba0cf2253e6a5bb41144c3f2dcf866634d61f911f3241
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'catppuccin macchiato' Theme for SDDM X11 display manager
+ Catppuccin Macchiato theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-catppuccin-mocha
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 199
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-catppuccin-mocha_0.19.0-0brute1_all.deb
+Size: 89564
+MD5sum: 67206003b3fbdb945e95ed36c96a1be8
+SHA1: b596db9d2d58848d1daedc8583f6585fe80a2b13
+SHA256: 56d6eb4c058112f685ce8d77b4df9f8a1ea8afdf6c267981ac5cfe28de2b23e4
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'catppuccin mocha' Theme for SDDM X11 display manager
+ Catppuccin Mocha theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-catppuccin-old
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 235
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-catppuccin-old_0.19.0-0brute1_all.deb
+Size: 87310
+MD5sum: 7be470b3cb3d915584b4b717058b1552
+SHA1: d1f2f8148c1e5bc09304b3f7f324026d65026aca
+SHA256: 0d4d830100eaafd33eb673af95239c67272e78124c064e9d4328b6a6af49b0a8
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'catppuccin-old' Theme for SDDM X11 display manager
+ catppuccin old theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-dawn
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 1224
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-dawn_0.19.0-0brute1_all.deb
+Size: 1139946
+MD5sum: 093f02d722e48eb0dcfd110ce04128fd
+SHA1: d1889c99dbf7d52ad77966addda2fa325eb4c461
+SHA256: 49577bf6f7f1ba8d5a8474e967335897a8beae07246b34cac95858b7266cba44
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'dawn' Theme for SDDM X11 display manager
+ Dawn theme for SDDM
 Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 
 Package: sddm-theme-debian-elarun
@@ -197,6 +681,28 @@ Homepage: https://github.com/sddm/sddm
 Description: 'Debian Maui' theme for SDDM X11 display manager
  Maui theme for SDDM, using the active desktop-base theme for the
  background
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-desktoppal97
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 1007
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-desktoppal97_0.19.0-0brute1_all.deb
+Size: 346372
+MD5sum: 9a0be3423f846b0be22f784b5656e5ad
+SHA1: 1ef6b25210697dd9a0562b10f4d7bca24aceab49
+SHA256: 4cd07f4915cdbba6b4b7fa9390393defdd7450275b536d735b270ae1a3054212
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'DesktopPal97' Theme for SDDM X11 display manager
+ DesktopPal97 theme for SDDM
 Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 
 Package: sddm-theme-elarun
@@ -302,5 +808,291 @@ Priority: optional
 Homepage: https://github.com/sddm/sddm
 Description: 'Maya' theme for SDDM X11 display manager
  Maya theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-monochrome-red
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 261
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-monochrome-red_0.19.0-0brute1_all.deb
+Size: 66820
+MD5sum: c646db96fefce9f5b9ca7690079e8c0f
+SHA1: a72c8b1631dc6c6f0381e22621df12dd2d554693
+SHA256: f7a8cb574b214f51ae29622d4ab5a2ffaa5fedc4c6f695a6b22fe3aea31f9dc1
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'monochrome-red' Theme for SDDM X11 display manager
+ monochrome-red theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-terminalstylelogin
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 223
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-terminalstylelogin_0.19.0-0brute1_all.deb
+Size: 98224
+MD5sum: 63aabd6470a43e596481d42380373d0e
+SHA1: 91130aca7c6fe88009599c3b41f0ffd7d9411506
+SHA256: ad7b172f062210df9c5b72d42212d5c8f80eb5c1c4b3ccf4a547359c16abd76d
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'TerminalStyleLogin' Theme for SDDM X11 display manager
+ TerminalStyleLogin theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-trellium-colorshift
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 424
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-trellium-colorshift_0.19.0-0brute1_all.deb
+Size: 39504
+MD5sum: 3ef39e4821081cf2488ec0b898ca3a23
+SHA1: 4791f4ce17dc11df27096f1c2e39ae0be49eda0c
+SHA256: bc46a62370c2c893cedd64aebc1daeebfc568108be5df2cf25824eee09b331a7
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'TrelliumColorshift' Theme for SDDM X11 display manager
+ TrelliumColorshift theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-trellium-colorshift-dark
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 424
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-trellium-colorshift-dark_0.19.0-0brute1_all.deb
+Size: 39440
+MD5sum: 9d0e8ce496a03e24557de09df43d1863
+SHA1: 13448d52825adfa09d0e09c9d738b52a61a62b0e
+SHA256: df9934ada6c8f631d0139a76d5d0b0a84261bb998e1b6164a20edfd2862920b3
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'TrelliumColorshiftDark' Theme for SDDM X11 display manager
+ TrelliumColorshiftDark theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-trellium-colorshift-translucent
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 424
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-trellium-colorshift-translucent_0.19.0-0brute1_all.deb
+Size: 39544
+MD5sum: 39e41929ffd06c27b793d7f8f90cdcca
+SHA1: f5f735260019fe1e9acc5df3dd90aca0260e5c45
+SHA256: c51a55cf157f1311c947d07eaa783388370831bdffa25c633718d1c74aa6fc9d
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'TrelliumColorshiftTranslucent' Theme for SDDM X11 display manager
+ TrelliumColorshiftTranslucent theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-trellium-dark
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 424
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-trellium-dark_0.19.0-0brute1_all.deb
+Size: 39186
+MD5sum: cdfc9f86032197eb4b3a28ef343f904d
+SHA1: 2f669331d9a0f1639bf25d19c0c6ef593f53fa73
+SHA256: c60741b6a070b61209f8588f4e9a687198428e6d807360bffe9a8db1670bf907
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'TrelliumDark' Theme for SDDM X11 display manager
+ TrelliumDark theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-trellium-inverted
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 424
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-trellium-inverted_0.19.0-0brute1_all.deb
+Size: 39222
+MD5sum: bac52a81a29450e6073111601393bb56
+SHA1: cf22e72760c751bde4e9bea90bd22a0abedbad09
+SHA256: 2a1ec084159198380a3c1ba00ba5b5cebc7904e60fae49c6aa8bbe4c23d2899d
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'relliumInverted' Theme for SDDM X11 display manager
+ relliumInverted theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-trellium-inverted-translucent
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 424
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-trellium-inverted-translucent_0.19.0-0brute1_all.deb
+Size: 39238
+MD5sum: f2228a4378d8f51ae03d8f8e39e54ee3
+SHA1: 6754f57f249e0c2b60c01909ab0140be8a951144
+SHA256: f1c1f2d56e4227fb14f4477faa68481f664ab2e988a046c91e5bf1cc18b1055d
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'TrelliumInvertedTranslucent' Theme for SDDM X11 display manager
+ TrelliumInvertedTranslucent theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-trellium-rc3
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 424
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-trellium-rc3_0.19.0-0brute1_all.deb
+Size: 39462
+MD5sum: 891acb187573ef650cc07196bba16b4d
+SHA1: 30f80a29eb85d230d65aa7a2209e6988fd868943
+SHA256: 9e22385e689d04b0223800a5de0eba7da262ea35f4d1126ce8494b3eb5fa5b2d
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'TrelliumRC3' Theme for SDDM X11 display manager
+ TrelliumRC3 theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-trellium-solid
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 424
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-trellium-solid_0.19.0-0brute1_all.deb
+Size: 39420
+MD5sum: 0ee28433b4a1f8d328c8ca25ce8af945
+SHA1: cae4553c0a3c177c96cdc5a6b2227f13ea15fa60
+SHA256: de0bcfa13689e530d14525ce327477c0145c67865e5dec5ef91e224f52684645
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'TrelliumSolid' Theme for SDDM X11 display manager
+ TrelliumSolid theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-trellium-source
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 511
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-trellium-source_0.19.0-0brute1_all.deb
+Size: 42228
+MD5sum: 3b726b02c338bc6f63e76cc81f9487f6
+SHA1: 42cae7e24206c6d43dc3b5a43421e0a33b46e756
+SHA256: 340e8b24adc49e7bb4bfca2191a41302350154dfe433b5d8104aefa54d19b6b1
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'Trellium-source' Theme for SDDM X11 display manager
+ Trellium-source theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-venture
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 1030
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-venture_0.19.0-0brute1_all.deb
+Size: 605130
+MD5sum: e24f8b4e841a1f749bda604cd2a5d754
+SHA1: 3d07d911fd445fd7fb22d075f8a1c0db82825f8e
+SHA256: cffb31aad59397ca6e2623025ee964a47038d6e0f2aae76c2f7c2676c6072322
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'venture' Theme for SDDM X11 display manager
+ venture theme for SDDM
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+Package: sddm-theme-win11
+Source: sddm-theme-extra
+Version: 0.19.0-0brute1
+Architecture: all
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Installed-Size: 4477
+Depends: desktop-base
+Recommends: sddm
+Breaks: sddm (<< 0.19.0-0brute1)
+Provides: sddm-theme
+Filename: pool/main/s/sddm-theme-extra/sddm-theme-win11_0.19.0-0brute1_all.deb
+Size: 3213738
+MD5sum: b9e7603b1a9b674ae7fc0e02969c166e
+SHA1: cf92223b7322d9457067c632139fdb670413d3c9
+SHA256: f93a64439e93c5851d6a49a55fe46d94ed8aa68fe3c2e2c5d90193bb8c6c9433
+Section: kde
+Priority: optional
+Homepage: https://gitlab.com/brute-os/packages/sddm-theme-extra/
+Description: 'win11' Theme for SDDM X11 display manager
+ win11 theme for SDDM
 Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 
