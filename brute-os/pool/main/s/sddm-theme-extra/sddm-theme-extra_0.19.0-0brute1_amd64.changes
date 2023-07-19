@@ -1,0 +1,221 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Sun, 16 Jul 2023 12:06:02 +0530
+Source: sddm-theme-extra
+Binary: sddm-theme-amiga-os-13 sddm-theme-amiga-os-classic sddm-theme-amiga-os-pharaoh sddm-theme-andromeda-kde sddm-theme-c64-classic sddm-theme-c64-classic-fancy sddm-theme-c64-geos sddm-theme-c64-gijoe sddm-theme-c64-holiday sddm-theme-c64-ik sddm-theme-c64-lcp sddm-theme-c64-ninja sddm-theme-c64-robot sddm-theme-c64-spacetaxi sddm-theme-c64-summergames sddm-theme-c64-timecrystal sddm-theme-catppuccin-frappe sddm-theme-catppuccin-latte sddm-theme-catppuccin-macchiato sddm-theme-catppuccin-mocha sddm-theme-catppuccin-old sddm-theme-dawn sddm-theme-desktoppal97 sddm-theme-monochrome-red sddm-theme-terminalstylelogin sddm-theme-trellium-colorshift sddm-theme-trellium-colorshift-dark sddm-theme-trellium-colorshift-translucent sddm-theme-trellium-dark sddm-theme-trellium-inverted sddm-theme-trellium-inverted-translucent sddm-theme-trellium-rc3 sddm-theme-trellium-solid sddm-theme-trellium-source sddm-theme-venture sddm-theme-win11
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 0.19.0-0brute1
+Distribution: brute-os-dev
+Urgency: medium
+Maintainer: Brute OS Developers <brute-os@outlook.com>
+Changed-By: Arijit Bhowmick <arijit_bhowmick@outlook.com>
+Description:
+ sddm-theme-amiga-os-13 - 'AmigaOS13' Theme for SDDM X11 display manager
+ sddm-theme-amiga-os-classic - 'AmigaOSClassic' Theme for SDDM X11 display manager
+ sddm-theme-amiga-os-pharaoh - 'AmigaOSPharaoh' Theme for SDDM X11 display manager
+ sddm-theme-andromeda-kde - 'Andromeda-KDE' Theme for SDDM X11 display manager
+ sddm-theme-c64-classic - 'C64-Classic' Theme for SDDM X11 display manager
+ sddm-theme-c64-classic-fancy - 'C64-ClassicFancy' Theme for SDDM X11 display manager
+ sddm-theme-c64-geos - 'C64 GEOS' Theme for SDDM X11 display manager
+ sddm-theme-c64-gijoe - 'C64 GIJoe' Theme for SDDM X11 display manager
+ sddm-theme-c64-holiday - 'C64-Holiday' Theme for SDDM X11 display manager
+ sddm-theme-c64-ik - 'C64-IK' Theme for SDDM X11 display manager
+ sddm-theme-c64-lcp - 'C64-LCP' Theme for SDDM X11 display manager
+ sddm-theme-c64-ninja - 'C64-Ninja' Theme for SDDM X11 display manager
+ sddm-theme-c64-robot - 'C64 Robot' Theme for SDDM X11 display manager
+ sddm-theme-c64-spacetaxi - 'C64 SpaceTaxi' Theme for SDDM X11 display manager
+ sddm-theme-c64-summergames - 'C64 SummerGames' Theme for SDDM X11 display manager
+ sddm-theme-c64-timecrystal - 'C64-TimeCrystal' Theme for SDDM X11 display manager
+ sddm-theme-catppuccin-frappe - 'catppuccin-frappe' Theme for SDDM X11 display manager
+ sddm-theme-catppuccin-latte - 'catppuccin-latte' Theme for SDDM X11 display manager
+ sddm-theme-catppuccin-macchiato - 'catppuccin macchiato' Theme for SDDM X11 display manager
+ sddm-theme-catppuccin-mocha - 'catppuccin mocha' Theme for SDDM X11 display manager
+ sddm-theme-catppuccin-old - 'catppuccin-old' Theme for SDDM X11 display manager
+ sddm-theme-dawn - 'dawn' Theme for SDDM X11 display manager
+ sddm-theme-desktoppal97 - 'DesktopPal97' Theme for SDDM X11 display manager
+ sddm-theme-monochrome-red - 'monochrome-red' Theme for SDDM X11 display manager
+ sddm-theme-terminalstylelogin - 'TerminalStyleLogin' Theme for SDDM X11 display manager
+ sddm-theme-trellium-colorshift - 'TrelliumColorshift' Theme for SDDM X11 display manager
+ sddm-theme-trellium-colorshift-dark - 'TrelliumColorshiftDark' Theme for SDDM X11 display manager
+ sddm-theme-trellium-colorshift-translucent - 'TrelliumColorshiftTranslucent' Theme for SDDM X11 display manage
+ sddm-theme-trellium-dark - 'TrelliumDark' Theme for SDDM X11 display manager
+ sddm-theme-trellium-inverted - 'relliumInverted' Theme for SDDM X11 display manager
+ sddm-theme-trellium-inverted-translucent - 'TrelliumInvertedTranslucent' Theme for SDDM X11 display manager
+ sddm-theme-trellium-rc3 - 'TrelliumRC3' Theme for SDDM X11 display manager
+ sddm-theme-trellium-solid - 'TrelliumSolid' Theme for SDDM X11 display manager
+ sddm-theme-trellium-source - 'Trellium-source' Theme for SDDM X11 display manager
+ sddm-theme-venture - 'venture' Theme for SDDM X11 display manager
+ sddm-theme-win11 - 'win11' Theme for SDDM X11 display manager
+Changes:
+ sddm-theme-extra (0.19.0-0brute1) brute-os-dev; urgency=medium
+ .
+   [ Arijit Bhowmick ]
+   * Added 36 SDDM themes to brute OS sddm-theme-extra package
+     - sddm-theme-amiga-os-13
+     - sddm-theme-amiga-os-classic
+     - sddm-theme-amiga-os-pharaoh
+     - sddm-theme-andromeda-kde
+     - sddm-theme-c64-classic-fancy
+     - sddm-theme-c64-classic
+     - sddm-theme-c64-geos
+     - sddm-theme-c64-gijoe
+     - sddm-theme-c64-holiday
+     - sddm-theme-c64-ik
+     - sddm-theme-c64-lcp
+     - sddm-theme-c64-ninja
+     - sddm-theme-c64-robot
+     - sddm-theme-c64-spacetaxi
+     - sddm-theme-c64-summergames
+     - sddm-theme-c64-timecrystal
+     - sddm-theme-catppuccin-frappe
+     - sddm-theme-catppuccin-latte
+     - sddm-theme-catppuccin-macchiato
+     - sddm-theme-catppuccin-mocha
+     - sddm-theme-catppuccin-old
+     - sddm-theme-dawn
+     - sddm-theme-desktoppal97
+     - sddm-theme-monochrome-red
+     - sddm-theme-terminalstylelogin
+     - sddm-theme-trellium-colorshift-dark
+     - sddm-theme-trellium-colorshift
+     - sddm-theme-trellium-colorshift-translucent
+     - sddm-theme-trellium-dark
+     - sddm-theme-trellium-inverted
+     - sddm-theme-trellium-inverted-translucent
+     - sddm-theme-trellium-rc3
+     - sddm-theme-trellium-solid
+     - sddm-theme-trellium-source
+     - sddm-theme-venture
+     - sddm-theme-win11
+Checksums-Sha1:
+ f291d1698ec0cf065b00e71c897120ef12a48e6f 4100 sddm-theme-extra_0.19.0-0brute1.dsc
+ 77b288fa0f83df5ddc1e829e5b6ad1519f80e33a 8933092 sddm-theme-extra_0.19.0-0brute1.tar.xz
+ d09c7ee82c48af007cd09c485c6bd3a751288148 130896 sddm-theme-amiga-os-13_0.19.0-0brute1_all.deb
+ cbc9378c0914b4d71f249493548edb8122878b06 114266 sddm-theme-amiga-os-classic_0.19.0-0brute1_all.deb
+ 499414a6ff0992880148f3a49673f8241faec206 121158 sddm-theme-amiga-os-pharaoh_0.19.0-0brute1_all.deb
+ eb9f8a969eba4baddbc5386b3042b489e3787876 1933604 sddm-theme-andromeda-kde_0.19.0-0brute1_all.deb
+ 555f4f8510716215c0d847d185bd52862212d3cb 752358 sddm-theme-c64-classic-fancy_0.19.0-0brute1_all.deb
+ 42f57b97a6d2fdcf7d88aa60574f93c5361d9842 771098 sddm-theme-c64-classic_0.19.0-0brute1_all.deb
+ 5fc21ad9d3755ec43dea4cd74afdb3a14b020e74 850458 sddm-theme-c64-geos_0.19.0-0brute1_all.deb
+ 92211d86ceda46c9bf2833b386ec00296b1eb9bc 821992 sddm-theme-c64-gijoe_0.19.0-0brute1_all.deb
+ adbf762c3c7b282d089317f1a09248198770e28a 784662 sddm-theme-c64-holiday_0.19.0-0brute1_all.deb
+ 660eb344d704826135909147f7785f903e048dc6 792564 sddm-theme-c64-ik_0.19.0-0brute1_all.deb
+ 9a8319f7eb866f947b98dce8ec5a5acb7486a02b 780612 sddm-theme-c64-lcp_0.19.0-0brute1_all.deb
+ db7cd739c6dc6a0925e861979f4a886a8fa2948c 769132 sddm-theme-c64-ninja_0.19.0-0brute1_all.deb
+ 5075ce7e537ead631a655bb1cb840a71af43f8d0 772644 sddm-theme-c64-robot_0.19.0-0brute1_all.deb
+ 0eec6ea7a19416da7a7eacbac7fc6151032df633 783202 sddm-theme-c64-spacetaxi_0.19.0-0brute1_all.deb
+ 1147b30e81467ef656c91761926d2b2a5654825c 781580 sddm-theme-c64-summergames_0.19.0-0brute1_all.deb
+ 101898faf485aa47d74c38b1d3b2c461a854236e 887212 sddm-theme-c64-timecrystal_0.19.0-0brute1_all.deb
+ 2430081a6b1da2a56c3eef05a7eaa5d1d8f0761b 89620 sddm-theme-catppuccin-frappe_0.19.0-0brute1_all.deb
+ e11a179f6e2650dd110b99843597d973949f83cf 89866 sddm-theme-catppuccin-latte_0.19.0-0brute1_all.deb
+ 1b2353088e138e119837d2017792879d8fec591a 89720 sddm-theme-catppuccin-macchiato_0.19.0-0brute1_all.deb
+ a9bc3fa7ca6a6d0aef03f7747879c73af6f35ed5 88832 sddm-theme-catppuccin-mocha_0.19.0-0brute1_all.deb
+ c83a702e6004941a9197d41b2c81dfe28f4819e9 86578 sddm-theme-catppuccin-old_0.19.0-0brute1_all.deb
+ 38cf7baf7b9261bc2be864e1bee616a20b18568f 1139212 sddm-theme-dawn_0.19.0-0brute1_all.deb
+ 0ef6aeeb9e14c419aace6341013cbb9f9dc0dd61 345640 sddm-theme-desktoppal97_0.19.0-0brute1_all.deb
+ 34f04fbf05eefc24332b1cbca6176d95231b79c5 21457 sddm-theme-extra_0.19.0-0brute1_amd64.buildinfo
+ 35bccf9216c0a81418653927d56adcf78be31f0b 66088 sddm-theme-monochrome-red_0.19.0-0brute1_all.deb
+ c33060fb967f20998bc472a5e504deb3a0ddd829 97492 sddm-theme-terminalstylelogin_0.19.0-0brute1_all.deb
+ 91fa22a4ee3cfc9e9cf853259cee46a9cd6cfc3a 38708 sddm-theme-trellium-colorshift-dark_0.19.0-0brute1_all.deb
+ 7d9e27b24c69c0000a135e7ba76ec7f38789a532 38812 sddm-theme-trellium-colorshift-translucent_0.19.0-0brute1_all.deb
+ 6b284541eaee6312f3ba0233c74b8d13a233c918 38772 sddm-theme-trellium-colorshift_0.19.0-0brute1_all.deb
+ b56bcf3d91d541a075d23e0e4ee9a9387670c04a 38454 sddm-theme-trellium-dark_0.19.0-0brute1_all.deb
+ 490c07e0a88de264e95d5c1ea5d4ec2a1bda3a76 38506 sddm-theme-trellium-inverted-translucent_0.19.0-0brute1_all.deb
+ 138aed3c28e6a68a521cf0dca1a2e342fbcfec75 38490 sddm-theme-trellium-inverted_0.19.0-0brute1_all.deb
+ 4b1356bdda2f6a3a948f771d2d0dd5c60c602260 38730 sddm-theme-trellium-rc3_0.19.0-0brute1_all.deb
+ 6b6667fe96783b274a1922d88a12af05606764bc 38688 sddm-theme-trellium-solid_0.19.0-0brute1_all.deb
+ a4779e602e2ab9fba52d7f0eda13a5fe8e2793b6 41496 sddm-theme-trellium-source_0.19.0-0brute1_all.deb
+ 2eae33627a38f79c779a5aea3495cb8b05783f86 604398 sddm-theme-venture_0.19.0-0brute1_all.deb
+ e2ea17eca3def7b0b95b749c8d131ac7cec22a2c 3213004 sddm-theme-win11_0.19.0-0brute1_all.deb
+Checksums-Sha256:
+ 24c0e54cab3124ceb2e833a1c3bc45e78365ec90eb8419e9c30d4ec2bb488950 4100 sddm-theme-extra_0.19.0-0brute1.dsc
+ 8437465860fa47fb492ff9c108ccbbf293dc03e6688a1fb3648ae39b7e561798 8933092 sddm-theme-extra_0.19.0-0brute1.tar.xz
+ 11b491cc9a5a54433b8c20646b4738f614037484b9638306daed4dfbd131861b 130896 sddm-theme-amiga-os-13_0.19.0-0brute1_all.deb
+ d9d18ec8a84fcb948079aa8567b05219c07774e952a10ef001897e9ff6b3d941 114266 sddm-theme-amiga-os-classic_0.19.0-0brute1_all.deb
+ 4a894a04344b9fa6d3ce236ca0510a77688ec08f92382960b20b8aba372bded0 121158 sddm-theme-amiga-os-pharaoh_0.19.0-0brute1_all.deb
+ dc54ae84afa8ba80be92725f8ad1863427f16f0a78392bb1a058e84e498320de 1933604 sddm-theme-andromeda-kde_0.19.0-0brute1_all.deb
+ 2979b89b329ef55c719275aa9d669e803bc6905947e4894c39ef4ba12a54b8ae 752358 sddm-theme-c64-classic-fancy_0.19.0-0brute1_all.deb
+ 7788c89977507e118ab6451de6306eaef95ac1802afbef2b48eed8fa1a19ca2c 771098 sddm-theme-c64-classic_0.19.0-0brute1_all.deb
+ a7f9e0e8809098072cf09a25fff090851f5abd01f32ba33836ca89308122e36c 850458 sddm-theme-c64-geos_0.19.0-0brute1_all.deb
+ 6137882d72e252dd20ab6e5d32b7647985978959b6c7a657f6a3b4af970e750e 821992 sddm-theme-c64-gijoe_0.19.0-0brute1_all.deb
+ 44becfdef1f1e368f96072deb1e38b7572970dda320aceaa24df829109d7ed89 784662 sddm-theme-c64-holiday_0.19.0-0brute1_all.deb
+ abd03d31a715e474e96462383ebc8867b6ff1a26b08965d675fd43f756965253 792564 sddm-theme-c64-ik_0.19.0-0brute1_all.deb
+ 96ebddfc3e98fc46b3c85e104233e72c9c9a94582454bee8a099356f5dfef4df 780612 sddm-theme-c64-lcp_0.19.0-0brute1_all.deb
+ a0f3fe88eb72d86bd1e8833c71f89b5463e7cdc2d0bc2badc5c155c85f0552d5 769132 sddm-theme-c64-ninja_0.19.0-0brute1_all.deb
+ c58e1fa42ccc15e1eb531b7df45e733200772f80ae54259633c1abd39c1b8e34 772644 sddm-theme-c64-robot_0.19.0-0brute1_all.deb
+ cbb17f441f6c85f22584fe07781d80e7130a5a4019d0623088c27f0a8fcd2593 783202 sddm-theme-c64-spacetaxi_0.19.0-0brute1_all.deb
+ f0592f46fe5bc025bf315edc17fa54aa74ebe76aaf93d650b31b69e1d546707b 781580 sddm-theme-c64-summergames_0.19.0-0brute1_all.deb
+ ae167c3d14c6746240e813409ee0d3458d9b88913c3e964650fdd3ba9ff14466 887212 sddm-theme-c64-timecrystal_0.19.0-0brute1_all.deb
+ 534813d9599c33c1e25f5dd73dca5d1f6ceaeb0ea63ed886f8c586b47e18f9da 89620 sddm-theme-catppuccin-frappe_0.19.0-0brute1_all.deb
+ 6f0a1e66000ef2f7b7d1d737769d5732b566850f5f591d2b8aad18bd1de59361 89866 sddm-theme-catppuccin-latte_0.19.0-0brute1_all.deb
+ 42a0de48d724e190f1aad09e24c91a8fc565718cc4ddc2334043432a029d5c2a 89720 sddm-theme-catppuccin-macchiato_0.19.0-0brute1_all.deb
+ 92fa278a80e584bfbd8f0c772029156a88ed327b33878b5d703e65b3f16792d0 88832 sddm-theme-catppuccin-mocha_0.19.0-0brute1_all.deb
+ b09d99c72dbe13ac75d69f9961f92e1f03ecf3bd5b9f3cda405948bb61c62d79 86578 sddm-theme-catppuccin-old_0.19.0-0brute1_all.deb
+ 9879926ccd8a2a15ae856d68c0848585ec7d473b1e41d8af61504879788301a9 1139212 sddm-theme-dawn_0.19.0-0brute1_all.deb
+ 00c45d0f9861285fd969064d2ef0c1c5ffccfc4234e1a4d472ddeea58c8b2d44 345640 sddm-theme-desktoppal97_0.19.0-0brute1_all.deb
+ 6c691f98e6d9001c5bdccba1626f4b377b05de712588c89af41d5548e45c9719 21457 sddm-theme-extra_0.19.0-0brute1_amd64.buildinfo
+ 0c2d702c66dc01a5356e4b51a883e804f812a9349f6121e3773e4081b2cd84e6 66088 sddm-theme-monochrome-red_0.19.0-0brute1_all.deb
+ 78d4a3b15b482d1b5b1cc0e3e39be0a48053106296b9bee3a97a0c963c2497e0 97492 sddm-theme-terminalstylelogin_0.19.0-0brute1_all.deb
+ 56d68a245dc14b280a4a0dcae8fc937292be6d1712239e11ccccd0a44c5e0ab8 38708 sddm-theme-trellium-colorshift-dark_0.19.0-0brute1_all.deb
+ 07ebf2c40167128a90f9f1fbe6d5328b9183d51bf56585d2bc6f1440687fa2a3 38812 sddm-theme-trellium-colorshift-translucent_0.19.0-0brute1_all.deb
+ eeb98ca7bc27f794aaa5c89b3fd33e6b56d39dc8e320aeaa0c44d19e95246405 38772 sddm-theme-trellium-colorshift_0.19.0-0brute1_all.deb
+ 2e7f75dc5fa53ff9efa8858a7f472ca23487edd300410a4fffd99ec88c4cd369 38454 sddm-theme-trellium-dark_0.19.0-0brute1_all.deb
+ 91f701f5436c2740b90339152d5b3fffef79d773e9bcf6eb6d4a351b5c4271b1 38506 sddm-theme-trellium-inverted-translucent_0.19.0-0brute1_all.deb
+ 7993c7467005808ae2f839d4d998025ebfafac3b2c41f096e2d3a179d5f21ad0 38490 sddm-theme-trellium-inverted_0.19.0-0brute1_all.deb
+ f370785efeae559026cd1280b4cc43402d8e56147c48d7f3fdbdbee0d360835b 38730 sddm-theme-trellium-rc3_0.19.0-0brute1_all.deb
+ 3e017d38c09d81cdb51a49340aa8a18bfcdf5bee5b16da33fda8f2c38e1156d2 38688 sddm-theme-trellium-solid_0.19.0-0brute1_all.deb
+ 48d9e399ae3e2c8d34f80b9b4a0c3f7bb7ff4537e43097ef7d0dc6d1ccd47ae3 41496 sddm-theme-trellium-source_0.19.0-0brute1_all.deb
+ 696cc287ef90dcb9ba6398c57634932bf7ee3275fd0757b8615edf9c7a11d78f 604398 sddm-theme-venture_0.19.0-0brute1_all.deb
+ 68c1dc61b9b06e08792d3f60ca47e872e6a793746df17fe883e869c530d8c477 3213004 sddm-theme-win11_0.19.0-0brute1_all.deb
+Files:
+ fc73a5f529e64dbcb7f20046ce5863eb 4100 kde optional sddm-theme-extra_0.19.0-0brute1.dsc
+ 0c64b7be03eb4e3c173339299b001454 8933092 kde optional sddm-theme-extra_0.19.0-0brute1.tar.xz
+ 0652b4496addd09f7c0ea78fc5b989f7 130896 kde optional sddm-theme-amiga-os-13_0.19.0-0brute1_all.deb
+ f72223698c5bc9f759d779693de17936 114266 kde optional sddm-theme-amiga-os-classic_0.19.0-0brute1_all.deb
+ fe7b9a45467eb72ad062d131a720ea98 121158 kde optional sddm-theme-amiga-os-pharaoh_0.19.0-0brute1_all.deb
+ 909741c16c7e34546b120963381e63a3 1933604 kde optional sddm-theme-andromeda-kde_0.19.0-0brute1_all.deb
+ 75ecafdc2b4d8ad911d30f96787e80a1 752358 kde optional sddm-theme-c64-classic-fancy_0.19.0-0brute1_all.deb
+ 91df2780413e5741c45cd1c1eac5d19f 771098 kde optional sddm-theme-c64-classic_0.19.0-0brute1_all.deb
+ 7ac16db09a019fdbc19c55400d2df156 850458 kde optional sddm-theme-c64-geos_0.19.0-0brute1_all.deb
+ 211e08a948e2434d5be0ac60bdf7873c 821992 kde optional sddm-theme-c64-gijoe_0.19.0-0brute1_all.deb
+ aa532687ca4d9571670c91ab58845dfa 784662 kde optional sddm-theme-c64-holiday_0.19.0-0brute1_all.deb
+ c32fb7b35439fea697d29a3c581d8bb7 792564 kde optional sddm-theme-c64-ik_0.19.0-0brute1_all.deb
+ 28dc878982a6b80542c5dd9fd44681be 780612 kde optional sddm-theme-c64-lcp_0.19.0-0brute1_all.deb
+ 6a7fc0582394766bdf31dfe74f5cacb0 769132 kde optional sddm-theme-c64-ninja_0.19.0-0brute1_all.deb
+ 55a9067e9012d2d21a78c34fd5c25d93 772644 kde optional sddm-theme-c64-robot_0.19.0-0brute1_all.deb
+ fa1e00eba6604e6bb3aebf5a0ca3d982 783202 kde optional sddm-theme-c64-spacetaxi_0.19.0-0brute1_all.deb
+ 9c99009a57388f08eb62f26144d0f829 781580 kde optional sddm-theme-c64-summergames_0.19.0-0brute1_all.deb
+ 1ff16582c6f3d00674434631bff48da8 887212 kde optional sddm-theme-c64-timecrystal_0.19.0-0brute1_all.deb
+ 67674b004e758f0af09f5576015e343b 89620 kde optional sddm-theme-catppuccin-frappe_0.19.0-0brute1_all.deb
+ 78861ac280e0e9a241f15230915313fa 89866 kde optional sddm-theme-catppuccin-latte_0.19.0-0brute1_all.deb
+ 1207c2564a6f6c332ddc09c919d2b796 89720 kde optional sddm-theme-catppuccin-macchiato_0.19.0-0brute1_all.deb
+ 3ddffd974514c010dee30d38ab8b56e5 88832 kde optional sddm-theme-catppuccin-mocha_0.19.0-0brute1_all.deb
+ 8b6f4f1060dd2f5065d8a19fee04902c 86578 kde optional sddm-theme-catppuccin-old_0.19.0-0brute1_all.deb
+ 55d680ab98afd62c464b2d48ab13662e 1139212 kde optional sddm-theme-dawn_0.19.0-0brute1_all.deb
+ 726a5c8ffabbea917251148e2348d444 345640 kde optional sddm-theme-desktoppal97_0.19.0-0brute1_all.deb
+ f82816beb65c55002b7a354b4c921306 21457 kde optional sddm-theme-extra_0.19.0-0brute1_amd64.buildinfo
+ 2223ad3bfb66f61ee41943ec57ad250e 66088 kde optional sddm-theme-monochrome-red_0.19.0-0brute1_all.deb
+ 413f0c97738cabfe11ec583d31087a0d 97492 kde optional sddm-theme-terminalstylelogin_0.19.0-0brute1_all.deb
+ bf79d2bb8945ac6761412b19cee2c04f 38708 kde optional sddm-theme-trellium-colorshift-dark_0.19.0-0brute1_all.deb
+ 80dbef856b11db5ff9f011eda98b778d 38812 kde optional sddm-theme-trellium-colorshift-translucent_0.19.0-0brute1_all.deb
+ 4acc542b2d50a8fe5ff5337861849aa8 38772 kde optional sddm-theme-trellium-colorshift_0.19.0-0brute1_all.deb
+ 481a66d4dc22fe43faba049fc1c3f210 38454 kde optional sddm-theme-trellium-dark_0.19.0-0brute1_all.deb
+ 664a96527e65a195cde544c30e1be750 38506 kde optional sddm-theme-trellium-inverted-translucent_0.19.0-0brute1_all.deb
+ f3b22b9fc3b7aa7d6f95c821d6a36ac9 38490 kde optional sddm-theme-trellium-inverted_0.19.0-0brute1_all.deb
+ 993fe299291b337ab8231c79a121ef16 38730 kde optional sddm-theme-trellium-rc3_0.19.0-0brute1_all.deb
+ 8373c83eda1cc2c577a5b06f38deb180 38688 kde optional sddm-theme-trellium-solid_0.19.0-0brute1_all.deb
+ d4b24f87a391d4d829e9574e6fbf0834 41496 kde optional sddm-theme-trellium-source_0.19.0-0brute1_all.deb
+ e0cd8de6cac77f40201878523ac8f628 604398 kde optional sddm-theme-venture_0.19.0-0brute1_all.deb
+ 5777ece26ff2cf561263822491865474 3213004 kde optional sddm-theme-win11_0.19.0-0brute1_all.deb
+Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQhLSJURG1hYaqICCMUFTF3Wgb3YgUCZLb9zgAKCRAUFTF3Wgb3
+YpgJAQC3quYVNpJVfpSJXn+RSZ9BxKpYfaDbN6cbSiXsglD3xQD+MLCarmNxKh0G
+l12F3IrV+wXDz3JUJ2JULd7ED5hBlQw=
+=0BGn
+-----END PGP SIGNATURE-----
